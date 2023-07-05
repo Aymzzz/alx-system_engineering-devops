@@ -1,0 +1,4 @@
+ -xamp
+#!/bin/bash
+ls -xamp
+
